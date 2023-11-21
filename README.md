@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/AnutkaB/Card-Patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/AnutkaB/Card-Patterns/actions/workflows/gradle.yml)
